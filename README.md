@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Sole Roa — Agents that actually ship." />
+  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Sole — Software Engineer · AI Engineer" />
 </p>
 
 <p align="left">

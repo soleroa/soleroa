@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/soleroa"><img src="https://img.shields.io/badge/HuggingFace-F7A501?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-  <a href="https://landcap.dev"><img src="https://img.shields.io/badge/landcap.dev-F54E00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://huggingface.co/soleroa"><img src="https://img.shields.io/badge/HuggingFace-2F6F73?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
+  <a href="https://landcap.dev"><img src="https://img.shields.io/badge/landcap.dev-C8553D?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -36,19 +36,19 @@ class Sole:
       <h4>🎬 <a href="https://github.com/soleroa/CineMatch">CineMatch</a></h4>
       ReAct agent for movie recommendations. Chains TMDb search, review fetching and my own fine-tuned sentiment classifier as a tool.
       <br/><br/>
-      <img src="https://img.shields.io/badge/-Python-1D4AFF?logo=python&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/-FastAPI-151515?logo=fastapi&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/-Groq-F54E00?style=flat-square" />
-      <img src="https://img.shields.io/badge/-HuggingFace-F7A501?logo=huggingface&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/-Python-2F6F73?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/-FastAPI-2B2A28?logo=fastapi&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/-Groq-C8553D?style=flat-square" />
+      <img src="https://img.shields.io/badge/-HuggingFace-D9B26F?logo=huggingface&logoColor=black&style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h4>⚖️ <a href="https://github.com/soleroa/alquilAI">AlquilAI</a></h4>
       RAG assistant over Argentine rental law — built from scratch, no LangChain.
       <br/><br/>
-      <img src="https://img.shields.io/badge/-TypeScript-1D4AFF?logo=typescript&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/-ChromaDB-F54E00?style=flat-square" />
-      <img src="https://img.shields.io/badge/-sentence--transformers-151515?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Groq-F54E00?style=flat-square" />
+      <img src="https://img.shields.io/badge/-TypeScript-2F6F73?logo=typescript&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/-ChromaDB-C8553D?style=flat-square" />
+      <img src="https://img.shields.io/badge/-sentence--transformers-2B2A28?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Groq-C8553D?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -56,18 +56,18 @@ class Sole:
       <h4>🏛️ <a href="https://github.com/soleroa/legisbot">LegisBot</a></h4>
       Full-stack RAG chatbot for Santa Fe legislative activity, with custom scraping and local embeddings.
       <br/><br/>
-      <img src="https://img.shields.io/badge/-TypeScript-1D4AFF?logo=typescript&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/-Next.js-151515?logo=nextdotjs&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/-sqlite--vec-F7A501?logo=sqlite&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/-TypeScript-2F6F73?logo=typescript&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/-Next.js-2B2A28?logo=nextdotjs&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/-sqlite--vec-D9B26F?logo=sqlite&logoColor=black&style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h4>💬 <a href="https://github.com/soleroa/llm-chat-cli">llm-chat-cli</a></h4>
       Multi-provider LLM chat in the terminal — streaming, structured output, zero frameworks.
       <br/><br/>
-      <img src="https://img.shields.io/badge/-Python-1D4AFF?logo=python&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/-Anthropic-F54E00?style=flat-square" />
-      <img src="https://img.shields.io/badge/-OpenAI-151515?logo=openai&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/-Pydantic-F7A501?logo=pydantic&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/-Python-2F6F73?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/-Anthropic-C8553D?style=flat-square" />
+      <img src="https://img.shields.io/badge/-OpenAI-2B2A28?logo=openai&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/-Pydantic-D9B26F?logo=pydantic&logoColor=black&style=flat-square" />
     </td>
   </tr>
 </table>

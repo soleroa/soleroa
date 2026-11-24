@@ -24,7 +24,6 @@ class Sole:
 - 🏭 Building **MCP servers** that connect companies' production data to an LLM chatbot
 - 🧠 Fine-tuned **DistilBERT** for sentiment (~91% acc) → [`soleroa/movie-review-classifier`](https://huggingface.co/soleroa/movie-review-classifier)
 - 🚀 Shipped **[Landcap](https://landcap.dev)** — AI that turns an Instagram profile into a professional website
-- 🌎 Love building products for Spanish-speaking markets
 
 ---
 

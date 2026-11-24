@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/soleroa"><img src="https://img.shields.io/badge/Hugging%20Face-F7A501?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://huggingface.co/soleroa"><img src="https://img.shields.io/badge/HuggingFace-F7A501?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="https://landcap.dev"><img src="https://img.shields.io/badge/landcap.dev-F54E00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 

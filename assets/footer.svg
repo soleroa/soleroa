@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60">
-  <rect width="1200" height="60" fill="#EEEFE9"/>
-  <rect x="0" y="36" width="300" height="10" fill="#1D4AFF"/>
-  <rect x="300" y="36" width="300" height="10" fill="#F54E00"/>
-  <rect x="600" y="36" width="300" height="10" fill="#F7A501"/>
-  <rect x="900" y="36" width="300" height="10" fill="#151515"/>
-  <text x="600" y="24" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="14" fill="#4D4F46">thanks for scrolling this far · go build something weird</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56">
+  <rect width="1200" height="56" fill="#F6F3EC"/>
+  <line x1="80" y1="40" x2="1120" y2="40" stroke="#E2DCCD" stroke-width="1.5"/>
+  <circle cx="580" cy="40" r="4" fill="#C8553D"/>
+  <circle cx="600" cy="40" r="4" fill="#D9B26F"/>
+  <circle cx="620" cy="40" r="4" fill="#2F6F73"/>
+  <text x="600" y="22" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="13" fill="#8A857A">thanks for scrolling this far · go build something weird</text>
 </svg>

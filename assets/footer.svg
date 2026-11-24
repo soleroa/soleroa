@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60">
+  <rect width="1200" height="60" fill="#EEEFE9"/>
+  <rect x="0" y="36" width="300" height="10" fill="#1D4AFF"/>
+  <rect x="300" y="36" width="300" height="10" fill="#F54E00"/>
+  <rect x="600" y="36" width="300" height="10" fill="#F7A501"/>
+  <rect x="900" y="36" width="300" height="10" fill="#151515"/>
+  <text x="600" y="24" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, monospace" font-size="14" fill="#4D4F46">thanks for scrolling this far · go build something weird</text>
+</svg>
